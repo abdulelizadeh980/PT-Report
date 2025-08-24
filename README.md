@@ -60,7 +60,7 @@ The dashboard allows users to filter by **Year** and **Month** for a more tailor
 1. **Total Revenue Line Chart**:  
    A line graph showing total revenue by month across different years, highlighting trends and peaks in revenue.
 
-   ![Revenue Chart](./PT_Report.SS.png)
+   ![Revenue Chart](./Sales_Dashboard_Report.SS.png)
 
 2. **Sales and Product Overview**:  
    Displays total sales by region, product, and salesperson.
@@ -95,7 +95,7 @@ The dashboard allows users to filter by **Year** and **Month** for a more tailor
 
 ## 📷 Screenshot of Dashboard
 
-![Dashboard Screenshot](./PT_Report.SS.png)
+![Dashboard Screenshot](./Sales_Dashboard_Report.SS.png)
 
 > *Ensure the images are correctly linked in your repo directory.*
 
@@ -103,7 +103,7 @@ The dashboard allows users to filter by **Year** and **Month** for a more tailor
 
 ## 🧑‍💼 Author
 
-- **[Your Name]**  
+- **[Abdulsalam Alizade]**  
 Sales Analyst | Excel Expert | Data Visualization Specialist
 
 ---
